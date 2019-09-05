@@ -614,6 +614,4 @@ Wire Wire Line
 Connection ~ 9600 2100
 Wire Wire Line
 	9600 2100 9600 2200
-Wire Wire Line
-	9600 1750 9600 1650
 $EndSCHEMATC
